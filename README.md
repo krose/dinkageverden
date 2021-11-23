@@ -23,8 +23,8 @@ Da jeg selvfølgelig gerne vil understøtte min kærestes bageinteresse,
 men også gerne vil spare nogle penge, så havde jeg behov for at lave en
 simpel scraper, så jeg kan holde øje med priserne.
 
-Jeg vil for at illustrere hvorledes den simple funktion fungerer, så har
-jeg udvalgt 4 varer, som jeg vil hente priser for:
+Jeg vil for at illustrere hvorledes den simple funktion fungerer,
+udvælge fire varer, som jeg vil hente priser for:
 
 -   [Callebaut 1kg mørk
     chokolade](https://www.dinkageverden.dk/alt-choko/chokolade/callebaut-chokolade-811-mork-1kg)
