@@ -14,3 +14,4 @@ Imports:
     rvest,
     xml2,
     stringr
+RoxygenNote: 7.1.2
